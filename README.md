@@ -1,6 +1,6 @@
 # 🔌 ADB Installer for Windows
 
-<img src="[https://developer.android.com/studio/images/brand/adb-hero.svg](https://www.gstatic.com/devrel-devsite/prod/va15d3cf2bbb0f0b76bff872a3310df731db3118331ec014ebef7ea080350285b/android/images/lockup.svg)" alt="Android Developer Logo" width="300"/>
+<img src="https://www.gstatic.com/devrel-devsite/prod/va15d3cf2bbb0f0b76bff872a3310df731db3118331ec014ebef7ea080350285b/android/images/lockup.svg" alt="Android Developer Logo" width="300"/>
 
 ## 🚀 What is ADB?
 
