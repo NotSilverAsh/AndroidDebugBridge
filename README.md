@@ -17,11 +17,11 @@
 
 ## ✨ Key Features
 
-- 📱 Install and uninstall apps
-- 📂 Push and pull files to/from your device
-- 🖥️ Access your device’s Unix shell
-- 🔍 View logs with `adb logcat`
-- 🔄 Reboot into bootloader, recovery, or straight back to Android
+- 📱 Install and uninstall apps  
+- 📂 Push and pull files to/from your device  
+- 🖥️ Access your device’s Unix shell  
+- 🔍 View logs with `adb logcat`  
+- 🔄 Reboot into bootloader, recovery, or straight back to Android  
 
 For all the juicy details, check out the [official ADB guide](https://developer.android.com/studio/command-line/adb).
 
@@ -31,19 +31,15 @@ For all the juicy details, check out the [official ADB guide](https://developer.
 
 ### ✅ Option 1: Use the ADB Installer (.msi)
 
-The easy-peasy way — download the `.msi`, run it, and boom 💥 you're done.
-- It auto-installs ADB and adds it to your system `PATH`.
+The easy-peasy way — download the `.msi`, run it, and boom 💥 you're done.  
+- It auto-installs ADB and adds it to your system `PATH`.  
 - No need to fumble around with ZIP files or folders.
 
 ### 🧠 Option 2: Manual Installation
 
-If you're more of a DIY kind of person:
-
-1. Download the [latest platform tools](https://developer.android.com/studio#downloads).
-2. Extract the ZIP to a folder.
+1. Download the [latest platform tools](https://developer.android.com/studio#downloads).  
+2. Extract the ZIP to a folder.  
 3. Add that folder to your Windows `PATH`.
-
-Now you can run ADB commands from anywhere in the terminal.
 
 ---
 
